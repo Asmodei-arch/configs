@@ -1,0 +1,6 @@
+station wlan0 connect Pump 
+quit 
+station wlan0 connect Pump 
+quit 
+station wlan0 connect Altair 
+quit 

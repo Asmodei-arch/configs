@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/arata/.local/wallpaper/angel.png" added="2021-05-25T15:58:58.220140Z" modified="2021-07-10T07:32:14.982614Z" visited="2021-05-25T15:58:58.223454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:32:14.982611Z" count="22"/>
+          <bookmark:application name="viewnior" exec="&apos;viewnior %u&apos;" modified="2021-06-18T15:51:59.291059Z" count="1"/>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2021-07-03T09:47:28.562285Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/angel2.png" added="2021-05-25T15:59:03.852825Z" modified="2021-07-10T07:31:54.061007Z" visited="2021-05-25T15:59:03.852828Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:54.061001Z" count="22"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/aqua.png" added="2021-05-25T15:59:04.423709Z" modified="2021-07-10T07:31:54.343815Z" visited="2021-05-25T15:59:04.423711Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:54.343810Z" count="20"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/arch.png" added="2021-05-25T15:59:04.862627Z" modified="2021-07-10T07:31:54.495519Z" visited="2021-05-25T15:59:04.862629Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:54.495514Z" count="21"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/ayame.png" added="2021-05-25T15:59:05.404503Z" modified="2021-07-10T07:31:54.863116Z" visited="2021-05-25T15:59:05.404505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:54.863111Z" count="21"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/ayame2.png" added="2021-05-25T15:59:05.926780Z" modified="2021-07-10T07:31:55.008755Z" visited="2021-05-25T15:59:05.926783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:55.008749Z" count="20"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/ayame3.png" added="2021-05-25T15:59:06.350876Z" modified="2021-07-10T07:31:55.161981Z" visited="2021-05-25T15:59:06.350878Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:55.161976Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/ayame_happy.png" added="2021-05-25T15:59:06.879628Z" modified="2021-07-10T07:31:55.349265Z" visited="2021-05-25T15:59:06.879631Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:55.349259Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/ayame_horny.png" added="2021-05-25T15:59:08.591125Z" modified="2021-07-10T07:31:55.514091Z" visited="2021-05-25T15:59:08.591127Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:55.514084Z" count="20"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/gangsta.png" added="2021-05-25T15:59:09.089512Z" modified="2021-07-10T07:31:50.124736Z" visited="2021-05-25T15:59:09.089514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:50.124732Z" count="19"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/gura.png" added="2021-05-25T15:59:09.667079Z" modified="2021-07-10T07:31:50.401559Z" visited="2021-05-25T15:59:09.667082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:50.401557Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/holoEn.png" added="2021-05-25T15:59:10.227959Z" modified="2021-07-10T07:31:50.546659Z" visited="2021-05-25T15:59:10.227961Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:50.546653Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/ina.png" added="2021-05-25T15:59:44.999966Z" modified="2021-07-10T07:31:50.892408Z" visited="2021-05-25T15:59:44.999969Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:50.892401Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/mio_ayame.png" added="2021-05-25T15:59:45.377122Z" modified="2021-07-10T07:31:51.486798Z" visited="2021-05-25T15:59:45.377124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:51.486794Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/neon1.png" added="2021-05-25T15:59:45.600457Z" modified="2021-07-10T07:31:51.585735Z" visited="2021-05-25T15:59:45.600458Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:51.585732Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/neon2.png" added="2021-05-25T15:59:46.036386Z" modified="2021-07-10T07:31:51.935447Z" visited="2021-05-25T15:59:46.036388Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:51.935442Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/suisei.png" added="2021-05-25T15:59:46.546220Z" modified="2021-07-10T07:31:52.623183Z" visited="2021-05-25T15:59:46.546222Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:52.623179Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/suisei2.png" added="2021-05-25T15:59:56.139626Z" modified="2021-07-10T07:31:53.303972Z" visited="2021-05-25T15:59:56.139630Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:53.303965Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/towa.png" added="2021-05-25T15:59:56.960620Z" modified="2021-07-10T07:31:53.606760Z" visited="2021-05-25T15:59:56.960622Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:53.606756Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/window.png" added="2021-05-25T15:59:58.006226Z" modified="2021-07-10T07:31:53.716493Z" visited="2021-05-25T15:59:58.006227Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:53.716486Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/js" added="2021-06-08T15:50:46.492556Z" modified="2021-06-27T17:40:46.560803Z" visited="2021-06-08T15:50:46.492557Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="codium" exec="&apos;codium %u&apos;" modified="2021-06-13T08:21:46.767861Z" count="2"/>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-06-08T15:57:46.119762Z" count="1"/>
+          <bookmark:application name="electron9" exec="&apos;electron9 %u&apos;" modified="2021-06-27T17:40:46.560799Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/zsh/screenshot.png" added="2021-06-13T17:03:17.543274Z" modified="2021-06-13T17:03:17.543282Z" visited="2021-06-13T17:03:17.543275Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-06-13T17:03:17.543279Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/js/abc.html" added="2021-06-16T16:11:10.808996Z" modified="2021-07-23T08:19:38.882369Z" visited="2021-06-16T16:11:10.808997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-07-23T08:19:38.882359Z" count="74"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/BIOS.zip" added="2021-06-22T06:00:59.431697Z" modified="2021-06-22T06:00:59.431708Z" visited="2021-06-22T06:00:59.431698Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-06-22T06:00:59.431701Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/LENOVO-44CN45WW.rom.zip" added="2021-06-22T06:04:46.588239Z" modified="2021-06-22T06:04:46.588251Z" visited="2021-06-22T06:04:46.588241Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-06-22T06:04:46.588244Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_arata0/GIA09_RC0002.tif" added="2021-06-22T08:29:13.783493Z" modified="2021-06-22T08:32:53.489548Z" visited="2021-06-22T08:29:13.783494Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/tiff"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-06-22T08:29:13.783497Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-06-22T08:32:53.489543Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_arata0/GIA09_RC0001.tif" added="2021-06-22T08:30:02.179399Z" modified="2021-06-22T08:32:51.972352Z" visited="2021-06-22T08:30:02.179400Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/tiff"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-06-22T08:32:51.972346Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/Screenshot_2021-05-31-13-40-11-749_com.vanced.android.youtube.jpg" added="2021-06-23T18:43:57.705764Z" modified="2021-06-23T18:43:57.705775Z" visited="2021-06-23T18:43:57.705766Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-06-23T18:43:57.705769Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/1615055182154.jpg" added="2021-06-23T18:53:00.926232Z" modified="2021-06-23T18:53:00.926242Z" visited="2021-06-23T18:53:00.926233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-06-23T18:53:00.926235Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/artix-base-runit-20210426-x86_64.iso" added="2021-06-24T06:21:01.595503Z" modified="2021-07-08T10:06:26.128967Z" visited="2021-06-24T06:21:01.595505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-07-08T10:06:26.128960Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/Magicka.torrent" added="2021-06-27T06:52:38.102833Z" modified="2021-06-27T06:53:25.683149Z" visited="2021-06-27T06:52:38.102835Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-06-27T06:52:38.102839Z" count="1"/>
+          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2021-06-27T06:53:25.683144Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/mfc42.dll" added="2021-06-27T07:11:45.219820Z" modified="2021-06-27T07:11:45.219835Z" visited="2021-06-27T07:11:45.219822Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-06-27T07:11:45.219826Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/tetris-os-master.zip" added="2021-06-29T09:23:57.385720Z" modified="2021-06-29T09:23:57.385730Z" visited="2021-06-29T09:23:57.385721Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-06-29T09:23:57.385724Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/boot.img" added="2021-06-29T09:32:34.949152Z" modified="2021-06-29T09:32:34.949166Z" visited="2021-06-29T09:32:34.949153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-06-29T09:32:34.949157Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/js/cba.html" added="2021-07-01T15:08:14.005465Z" modified="2021-07-01T15:08:14.005481Z" visited="2021-07-01T15:08:14.005467Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="electron9" exec="&apos;electron9 %u&apos;" modified="2021-07-01T15:08:14.005473Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/js/cba" added="2021-07-01T15:08:38.374444Z" modified="2021-07-01T15:08:58.843473Z" visited="2021-07-01T15:08:38.374447Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="electron9" exec="&apos;electron9 %u&apos;" modified="2021-07-01T15:08:38.374452Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-07-01T15:08:58.843464Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/archlinux-2021.07.01-x86_64.iso" added="2021-07-02T17:25:07.486129Z" modified="2021-07-02T17:25:07.486142Z" visited="2021-07-02T17:25:07.486131Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-07-02T17:25:07.486135Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/js/.eslintrc.js" added="2021-07-06T05:11:34.660079Z" modified="2021-07-06T05:11:34.660092Z" visited="2021-07-06T05:11:34.660080Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-07-06T05:11:34.660084Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/js/index.js" added="2021-07-06T09:36:46.760560Z" modified="2021-07-06T15:49:41.085756Z" visited="2021-07-06T09:36:46.760561Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="electron9" exec="&apos;electron9 %u&apos;" modified="2021-07-06T09:36:46.760563Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-07-06T15:49:41.085746Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/namebench-1.3.1-source.tgz" added="2021-07-07T18:15:00.145015Z" modified="2021-07-07T18:15:00.145027Z" visited="2021-07-07T18:15:00.145017Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-07-07T18:15:00.145021Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/namebench%202021-07-08%2000%2027%2035.783692.html" added="2021-07-08T06:46:44.492107Z" modified="2021-07-08T06:48:30.324753Z" visited="2021-07-08T06:46:44.492110Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-07-08T06:48:30.324744Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/.local/wallpaper/mio.png" added="2021-07-10T07:31:51.079651Z" modified="2021-07-10T07:31:51.079661Z" visited="2021-07-10T07:31:51.079652Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-10T07:31:51.079656Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/linux-5.12.15.tar.xz" added="2021-07-11T08:47:15.434694Z" modified="2021-07-11T08:47:15.434704Z" visited="2021-07-11T08:47:15.434695Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-07-11T08:47:15.434698Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/90538113_p0.png" added="2021-07-13T12:59:57.581617Z" modified="2021-07-13T13:00:17.963134Z" visited="2021-07-13T12:59:57.581622Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-07-13T12:59:57.971727Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-13T13:00:17.963130Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/Downloads/Files_downloaded_by_AirDroid.zip" added="2021-07-14T14:31:39.735207Z" modified="2021-07-14T14:31:39.735233Z" visited="2021-07-14T14:31:39.735209Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefoxdeveloperedition %u&apos;" modified="2021-07-14T14:31:39.735219Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/arata/screen.png" added="2021-07-15T09:50:37.761627Z" modified="2021-07-15T09:50:37.761637Z" visited="2021-07-15T09:50:37.761628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-07-15T09:50:37.761633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

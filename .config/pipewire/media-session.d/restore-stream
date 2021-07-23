@@ -1,0 +1,6 @@
+{
+ "restore.stream.Output/Audio.application.name:Firefox Developer Edition": { "volume": 1.000000, "mute": false, "volumes": [ 0.799991, 0.799991 ], "channels": [ "FL", "FR" ] },
+ "restore.stream.Output/Audio.application.name:mpg123": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
+ "restore.stream.Output/Audio.media.role:Music": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
+ "restore.stream.Output/Audio.media.role:Movie": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
+}

@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/arata/.config/nvim/vim-plug'
+let g:netrw_dirhist_8='/etc/pipewire'
+let g:netrw_dirhist_7='/home/arata/.config/i3status'
+let g:netrw_dirhist_6='/home/arata/.config/sway'
+let g:netrw_dirhist_5='/home/arata/.config/nvim/vim-plug'
+let g:netrw_dirhist_4='/home/arata/js'
+let g:netrw_dirhist_3='/home/arata/.config/nvim/vim-plug/plugged'
+let g:netrw_dirhist_2='/home/arata/.config/nvim/general'
+let g:netrw_dirhist_1='/home/arata/.local/share/nvim/site/autoload'
